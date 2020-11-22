@@ -2,4 +2,4 @@
 
 A CLI app built with **nodeJS**. It is a quiz to find out who really knows me 
 
-[Live Project](https://repl.it/@Shanmukh98/neog-project01)
+[Live Project](https://repl.it/@Shanmukh98/neog-project01?embed=1&output=1)
